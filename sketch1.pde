@@ -4,10 +4,10 @@ background(0,0,0);
 }
 
 void draw() {
-  if (mousePressed) {
-    stroke(255);
+ if (mousePressed) {
+    stroke(200,134,23);
   } else {
-    stroke(255);
+    stroke(125,74,50);
   }
   line(mouseX, mouseY, height/2, width/2);
 }
