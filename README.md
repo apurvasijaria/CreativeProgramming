@@ -10,5 +10,5 @@ Blogs and Articles:
 - https://medium.com/better-programming/getting-started-with-creative-coding-16072ff7e778
 
 Sources:
-- 01: https://www.youtube.com/watch?v=VpIFZ0xcJWM&list=PLUG_f-krxzVrRCOjGFwOuYj3QarVfPWXK
--
+- https://www.youtube.com/watch?v=VpIFZ0xcJWM&list=PLUG_f-krxzVrRCOjGFwOuYj3QarVfPWXK
+- https://www.youtube.com/watch?v=wsI6N9hfW7E&list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e: Must
